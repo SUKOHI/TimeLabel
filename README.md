@@ -34,7 +34,6 @@ Usage
     $time_label = TimeLabel::setLabel([
         'today' => 'Today',
         'yesterday' => 'Yesterday',
-        'this_week' => 'This Week',
         'this_month' => 'This Month',
         'last_month' => 'Last Month',
         'other' => 'M, Y'   // You need to set date format only here.
